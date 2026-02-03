@@ -1,4 +1,4 @@
-package ArraysAndHashing;
+package TwoPointer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
